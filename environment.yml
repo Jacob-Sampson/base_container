@@ -3,6 +3,7 @@ channels:
   - conda-forge
   - bioconda
 dependencies:
+  - vim
   - nodejs
   - upsetplot
   - seaborn
