@@ -26,4 +26,4 @@ dependencies:
   - pyhpo
   - pyliftover
   - pip:
-    - gwplot @ https://files.pythonhosted.org/packages/e1/7c/5be79230eb84b4533b647598cf9306dc77d520cb07d3d49263fd1269072a/gwplot-0.4.1-cp313-cp313-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+    - gwplot @ https://files.pythonhosted.org/packages/e6/56/01b0ba563d660443509136f488a8a24480d56018a3037d3515c05acba7d5/gwplot-0.4.1-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
