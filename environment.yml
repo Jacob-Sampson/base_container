@@ -26,5 +26,5 @@ dependencies:
   - pyhpo
   - fontconfig
   - pyliftover
-  - pip:
-    - gwplot @ https://files.pythonhosted.org/packages/e6/56/01b0ba563d660443509136f488a8a24480d56018a3037d3515c05acba7d5/gwplot-0.4.1-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+#  - pip:
+#    - gwplot @ https://files.pythonhosted.org/packages/e6/56/01b0ba563d660443509136f488a8a24480d56018a3037d3515c05acba7d5/gwplot-0.4.1-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
